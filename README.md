@@ -1,38 +1,50 @@
-# Student Performance Data Analysis
+# Data Analysis Projects Portfolio
 
-## About the Project
-This beginner-friendly project analyzes student marks using Python, Pandas, and Matplotlib.
+Welcome to my Data Analysis portfolio! This repository contains beginner-friendly projects using Python, Pandas, and Matplotlib to explore datasets, clean data, and discover useful insights.
 
-## Features
-- Calculate subject-wise average marks
-- Find highest and lowest marks
-- Identify the top-performing student
-- Create a bar chart to compare subjects
-- Save the dataset as a CSV file
+## Projects
 
-## Technologies Used
-- Python
-- Pandas
-- Matplotlib
-- Google Colab
+### 1. Student Performance Data Analysis
+**Tools:** Python, Pandas, Matplotlib
 
-## Key Findings
-- Total students analyzed: 5
-- Highest average subject: English
-- Lowest average subject: Math
-- Top Math scorer: Neha, with 90 marks
+- Analysed student marks across different subjects.
+- Calculated average marks and identified high-performing students.
+- Created charts to visualise student performance.
+- Exported the processed data to CSV.
 
-## Project Files
-- `Student_Performance_Analysis.ipynb` — Notebook containing the code and analysis
+### 2. Titanic Passenger Survival Analysis
+**Tools:** Python, Pandas, Matplotlib, Google Colab
+
+- Explored the Titanic passenger dataset.
+- Identified and handled missing data.
+- Analysed survival rates by gender, passenger class, and age group.
+- Created charts to compare survival patterns.
+- Exported the cleaned dataset to CSV.
+
+## Skills Demonstrated
+
+- Python programming
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Data aggregation using Pandas
+- Data visualisation using Matplotlib
+- CSV file handling
+- Google Colab and GitHub
+
+## Repository Structure
+
+- `Untitled0.ipynb` — Student Performance analysis notebook
 - `student_performance.csv` — Student dataset
+- `README.md` — Portfolio overview
+- Titanic analysis notebook (`.ipynb`) — Titanic project code and charts
+- `titanic_cleaned.csv` — Cleaned Titanic dataset
 
-## What I Learned
-- Creating and analyzing Pandas DataFrames
-- Calculating averages and finding maximum and minimum values
-- Creating bar charts with Matplotlib
-- Exporting data to CSV
+## How to Explore
 
-## Future Improvements
-- Analyze a larger dataset
-- Add more visualizations
-- Explore study hours and student performance
+Open the notebook files on GitHub to view the Python code, outputs, analysis, and visualisations.
+
+## Author
+
+Sakshi Agarwal
+
+Aspiring Data Analyst | Python | Pandas | Data Visualisation
