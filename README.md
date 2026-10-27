@@ -1,50 +1,42 @@
 # Data Analysis Projects Portfolio
 
-Welcome to my Data Analysis portfolio! This repository contains beginner-friendly projects using Python, Pandas, and Matplotlib to explore datasets, clean data, and discover useful insights.
+Welcome to my Data Analysis Portfolio! This repository contains beginner-friendly data analysis projects using Python, Pandas, and Matplotlib.
 
 ## Projects
 
 ### 1. Student Performance Data Analysis
+- Explored and analyzed student performance data.
+- Used Pandas for data handling and analysis.
+- Created visualizations to understand patterns in the dataset.
+
 **Tools:** Python, Pandas, Matplotlib
 
-- Analysed student marks across different subjects.
-- Calculated average marks and identified high-performing students.
-- Created charts to visualise student performance.
-- Exported the processed data to CSV.
+[View Project](./student-performance/)
 
 ### 2. Titanic Passenger Survival Analysis
-**Tools:** Python, Pandas, Matplotlib, Google Colab
+- Explored passenger data from the Titanic dataset.
+- Handled missing values and prepared data for analysis.
+- Analyzed survival patterns by gender, passenger class, and age group.
+- Created charts to communicate key findings.
 
-- Explored the Titanic passenger dataset.
-- Identified and handled missing data.
-- Analysed survival rates by gender, passenger class, and age group.
-- Created charts to compare survival patterns.
-- Exported the cleaned dataset to CSV.
+**Tools:** Python, Pandas, Matplotlib
+
+[View Project](./titanic-survival-analysis/)
 
 ## Skills Demonstrated
-
-- Python programming
-- Data cleaning and preprocessing
+- Data Cleaning
 - Exploratory Data Analysis (EDA)
-- Data aggregation using Pandas
-- Data visualisation using Matplotlib
-- CSV file handling
-- Google Colab and GitHub
+- Data Visualization
+- Python Programming
+- Pandas
 
 ## Repository Structure
 
-- `Untitled0.ipynb` — Student Performance analysis notebook
-- `student_performance.csv` — Student dataset
-- `README.md` — Portfolio overview
-- Titanic analysis notebook (`.ipynb`) — Titanic project code and charts
-- `titanic_cleaned.csv` — Cleaned Titanic dataset
-
-## How to Explore
-
-Open the notebook files on GitHub to view the Python code, outputs, analysis, and visualisations.
+- `student-performance/` — Student performance project
+- `titanic-survival-analysis/` — Titanic survival analysis project
 
 ## Author
 
-Sakshi Agarwal
+**Sakshi Agarwal**
 
-Aspiring Data Analyst | Python | Pandas | Data Visualisation
+Aspiring Data Analyst | Python | Pandas | Data Visualization
